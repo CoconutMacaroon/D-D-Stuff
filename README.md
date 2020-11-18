@@ -2,4 +2,4 @@
 
 For content, see the `*.md` files by game:
 
-- [D&D 5th Edition](DND-5E.md)
+- [D&D 5th Edition](dnd-5e/)
