@@ -3,11 +3,12 @@
 ## Undead (skeleton)
 
 Undead race for D&D 5e
-#### Ability score increase
-+2 con,
-+1 to any stat of your choice
-#### Movement speed
+### Ability score increase
+`+`2 con,
+`+1` to any stat of your choice
+### Movement speed
 You have a walking speed of 30 ft
+### Features
 #### Undead resilience
 You have advantage on saving throws against being poisoned, and you have resistance to poison, piercing, and necrotic damage.
 You are immune to disease.
