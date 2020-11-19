@@ -1,6 +1,6 @@
 # Campaign lore document
 
-#### Soulbound:
+#### Soulbound
 Soulbound are the product of a magic ritual to bound one's soul to an inatimate object.
 Soulbound are commonly created using the souls of noblemen and magic users seeking to cheat death.
 On the other hand, many an unwitting soldier has found themselves bound to golems and suits of armor to create nigh unstoppable warriors.
