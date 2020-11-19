@@ -11,6 +11,4 @@ For content, see the `*.md` files by game:
 - These are the standard filenames
   - `races.md` - Race mechanics
   - `items.md` - In game items
-  - `religion.md` - Religion in the setting. Note that items should be in `items.md`
-  - `locations.md` - Major (and minor) locations. This can be towns, but also smaller things like buildings
   - `campagin fluff.md` - Race lore, religion, and locations (can be cities, buildings, towns, rooms, etc.)
