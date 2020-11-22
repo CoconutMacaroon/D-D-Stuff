@@ -6,3 +6,9 @@ Soulbound are commonly created using the souls of noblemen and magic users seeki
 On the other hand, many an unwitting soldier has found themselves bound to golems and suits of armor to create nigh unstoppable warriors.
 Souldbound are commonly bound to golem like forms, suits of armor, or human remains such as skeletons, while the latter has fallen out of practice.
 For the former two types, use the Warforged race, for the latter, use the undead race, which can be found on this repo.
+
+#### Carcosa, the city of masks
+Bathed in eternal night, Carcosa is a den of hedonism , with every visitor given a mask said to show one's truest self.
+No one truly knows its location, and the city itself is even stranger. It's natives, known as Changelings, slip into new faces like one changes clothes.
+The rulers of carcosa are the enigmatic masked lords, each one bearing there own form of madness. 
+The rules for changelings can be found in wayfinders guide to eberron.
