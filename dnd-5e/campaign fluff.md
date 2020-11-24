@@ -12,3 +12,6 @@ Bathed in eternal night, Carcosa is a den of hedonism , with every visitor given
 No one truly knows its location, and the city itself is even stranger. It's natives, known as Changelings, slip into new faces like one changes clothes.
 The rulers of carcosa are the enigmatic masked lords, each one bearing there own form of madness. 
 The rules for changelings can be found in wayfinders guide to eberron.
+
+#### The Ash Wastes, The Ruins of Caelondia
+Around a century ago, a colossal war broke out, with nearly everyone getting involved. One faction, The nation known as Caelondia, discovered something that could turn the tide of the war in their favor. A cache of ancient magical constructs, each bearing unrivaled power. The war turned in their favor, until each other group put aside their rivalries to bring down Caelondia. Seeing their reign at it's end, the ruler of caelondia unleashed the greatest finding among the wonders they wielded in battle. Something known only as The Burning Sky. The world shook as all of caelondia burned to the ground in seconds, leaving only ashes and ruins known now as The Ash Wastes. Those who inhabit the Charred Land now scavenge the waste, relying on the poorly understood wonders of the old world to survive.
