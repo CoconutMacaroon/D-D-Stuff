@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Label Reminder
 
 # Controls when the action will run. 
 on:
@@ -15,9 +15,7 @@ jobs:
       - uses: mshick/add-pr-comment@v1
         with:
           message: |
-            **Hello**
-            🌏
-            !
+            Don't forget to add Labels to your PR. Thanks!
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
           allow-repeats: false # This is the default
