@@ -16,6 +16,6 @@ jobs:
         with:
           message: |
             Don't forget to add Labels to your PR. Thanks!
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.LABELREMINDER }}
           repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
           allow-repeats: false # This is the default
