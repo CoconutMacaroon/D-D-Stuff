@@ -20,7 +20,7 @@ Around a century ago, a colossal war broke out, with nearly everyone getting inv
 ##### The heirs of Caelondia
 The remnants and descendants of the Caelondian military, this faction believes they are the rightful rulers of the wastes. Led by General Theodoric, the son of a major caelondian military leader.
 ##### Revelry
-Consisting of loosely organized settlements and bandit groups, Revelry takes advantage of the anarchy of the ash wastes, fighting off the other factions to keep it unsettled and untouched.
+Consisting of loosely organized settlements and bandit groups, Revelry takes advantage of the anarchy of the ash wastes, fighting off the other factions to keep it unsettled and untouched. Bears an unkown connection to Carcosa.
 ##### The Reclaimers
 A group of wizards, artificers, and mercenaries who hunt for lost magical wonders hidden throughout the wastes, viewing these wonders with a religious awe.
 ##### The Ash Pact
