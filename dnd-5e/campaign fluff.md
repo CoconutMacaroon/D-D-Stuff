@@ -16,7 +16,7 @@ Undead race, which can be found on this repo.
 Bathed in eternal night, Carcosa is a den of hedonism , with every visitor given a mask said to show one's truest self.
 No one truly knows its location, and the city itself is even stranger. It's natives, known as Changelings, slip into new faces like one changes clothes.
 The rulers of Carcosa are the enigmatic masked lords, each one bearing there own form of madness. 
-The rules for Changelings can be found in wayfinders guide to Eberron.
+The rules for Changelings can be found in Wayfinders Guide to Eberron.
 
 ### The Ash Wastes, The Ruins of Caelondia
 
@@ -38,4 +38,4 @@ A group of wizards, artificers, and mercenaries who hunt for lost magical wonder
 
 ### The Ash Pact
 
-The only formally recognized faction within the wastes, the Ash Pact is a compound between multiple settlements providing mutual protection and trade. Likely the only thing resembling order within the Wastes.
+The only formally recognized faction within the Wastes, the Ash Pact is a compound between multiple settlements providing mutual protection and trade. Likely the only thing resembling order within the Wastes.
